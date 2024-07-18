@@ -1,0 +1,233 @@
+h2{
+  margin-top: 10px;
+  color: aliceblue;
+  
+}
+#options{
+  display: flex;
+  margin-top: -43px;
+ margin-left: 900px;
+ justify-content: space-evenly;
+ 
+  
+  
+}
+a{
+ text-decoration: none;
+ color: white;
+
+}
+#one{
+  height: 50px;
+  width: 100%;
+  border: 2px solid black;
+  position: fixed;
+  margin-top: -200px;
+  background: black;
+}
+#two{
+  margin-right: 600px;
+  margin-top: 200px;
+  font-size: larger;
+  background: black;
+  height: 500px;
+  width: 1500px;
+  border:2px solid black; 
+}
+
+#imggopi{
+  margin-top: 20px;
+  border-radius: 9px;
+}
+
+h1{
+  color: aliceblue;  
+  margin-left: 350px; 
+  margin-top: 180px;
+}
+h3{
+  color: aliceblue;
+  margin-left: 350px;
+}
+
+#para{
+  margin-top: -290px;
+  margin-left: 500px ;
+  text-decoration: aliceblue;
+  
+}
+
+#bio{
+  height: 700px;
+  width:  1500px;
+  border: 2px solid black;
+  margin-top: 600px;
+  background: black;
+}
+
+p{
+  font-size: larger;
+  color: aliceblue;
+}
+#img{
+  
+  margin-top: -100px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+#button{
+  
+  background: rgba(255, 174, 0, 0.884);
+  border-radius: 5%;
+  color: aliceblue;
+  font-size: medium;
+  font-weight: 900;
+  margin-top: 100px;
+}
+#portfolio{
+  height: 600px;
+  width: 1500px;
+  margin-top: 400px;
+  background: white;
+  border: 2px solid black;
+  text-align: center;
+  
+}
+
+#p1{
+  height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  justify-content: space-evenly;
+  background: red;
+  font-size: medium;
+  
+}
+#project{
+  width: 900px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  margin-top: 25px;
+  color: black;
+
+  
+}
+
+queen{
+  text-decoration: black;
+}
+
+h,h4{
+  font-size: xx-large;
+}
+
+h6{
+  color: black;
+}
+h5{
+  color: black;
+  margin-left: 700px;
+  font-size: x-large;
+}
+#twelve{
+  margin-top: 600px;
+  margin-right: 800px;
+}
+h7{
+  margin-left: 400px;
+}
+progress{
+  height: 5px;
+  background: rgb(223, 230, 230);
+}
+progress::-webkit-progress-value{
+  background: rgba(184, 14, 8, 0.801);
+}
+
+progress::-webkit-progress-bar{
+  background: rgba(255, 255, 255, 0.048);
+  
+}
+
+#skills{
+  height: 90px;
+  width: 190px;
+  margin-right: 400px;
+  margin-top: 50px;
+}
+
+#tech{
+  margin-top: 100px;
+  margin-left: 400px;
+}
+
+h6{
+  font-size: large;
+  margin-right: 50px;
+}
+#twelve{
+  height: 800px;
+  width: 1500px;
+  border: 2px solid black;
+  margin: auto;
+}
+#lan{
+  margin-top: -470px;
+  margin-left: 900px;
+  
+}
+#thirteen{
+  margin-top: 100px;
+}
+
+
+#contact{
+  
+  margin-left: 200px;
+  text-align: center;
+  text-decoration: black;
+  margin-top: 150px;
+ 
+}
+
+#king1{
+  margin-left: 400px;
+  margin-top: 300px;
+}
+#king2{
+  margin-bottom: 500px;
+  padding-bottom: 500px;
+}
+#icon{
+  height: 5px;
+  width: 10px;
+  border-radius: 50%;
+}
+
+p6,p7,p8{
+  text-decoration: black;  
+}
+#h11{
+  font-size: xx-large;
+  margin-right: 70px;
+}
+#ant{
+  height: 50px;
+  width: 40px;
+
+}
+#man{
+  height: 70px;
+  width: 70px;
+
+}
+#kid{
+  height: 50px;
+  width: 40px;
+
+}
+#kar{
+  margin-top: 100px;
+}
